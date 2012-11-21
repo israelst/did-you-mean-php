@@ -1,5 +1,5 @@
 # You mean
-This code was used during a presentation in PHPnRio 2012 conference. The main goal was show the importance of knowing algorithms to develop interesting solutions such that famous "You mean" on google searches.
+This code was used during a presentation in PHPnRio 2012 conference. The main goal was show the importance of knowing algorithms to develop interesting solutions such that famous "Did you mean" on google searches.
 
 My idea came from the project https://github.com/juanplopes/spellchecker-example
 
