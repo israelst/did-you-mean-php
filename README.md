@@ -1,10 +1,10 @@
 # You mean
-This code was used during a presentation in PHPnRio 2012 conference. The main goal was show the importance of knowing algorithms to develop interesting solutions such that famous "Did you mean" on google searches.
+This code was used during a presentation in PHPnRio 2012 conference. The main goal was to show the importance of algorithms knowledge to develop interesting solutions such as that famous "Did you mean" on google searches.
 
-My idea came from the project https://github.com/juanplopes/spellchecker-example
+This idea was inspired by the project [spellchecker-example](https://github.com/juanplopes/spellchecker-example).
 
 ## Topics
-I talked about how important is to know different algorithms and think about their complexity. For that, I highlighted the following topics:
+I've talked about how important is knowing different algorithms and think about their complexity. For that, I've highlighted the following topics:
 - [Algorithmic complexity](https://en.wikipedia.org/wiki/Algorithmic_complexity) and [big O notation](https://en.wikipedia.org/wiki/Big_O_notation)
 - [Dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
 - [Memoization](https://en.wikipedia.org/wiki/Memoization)
