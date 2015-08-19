@@ -14,7 +14,7 @@ I've talked about how important is knowing different algorithms and think about 
 
 
 ## Presentation
-Maybe it doesn't make sense for you :), but I used this mindmap to make the [slides](http://www.slideshare.net/israelst/busca-inteligente-15280721):
+It may not make sense for you :), but I've used this mindmap to guide the [slide presentation](http://www.slideshare.net/israelst/busca-inteligente-15280721):
 - Who am I
 - Motivation
 - Modeling problems
